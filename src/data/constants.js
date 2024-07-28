@@ -203,7 +203,7 @@ export const Bio = {
       description:
         "LiveTrack is an efficient and responsive system for real-time device tracking, displaying locations on a dynamic map with automatic updates. Leveraging WebSockets and Leaflet.js, it ensures seamless monitoring of multiple devices simultaneously.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "",
       tags: [
         "Node Js",
         "Express Js",
