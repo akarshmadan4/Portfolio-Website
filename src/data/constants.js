@@ -190,7 +190,7 @@ export const Bio = {
       description:
         "Developed Airport Management System application that  includes features for managing airports, airlines, flights, passengers, and employees.",
       image:
-        "https://private-user-images.githubusercontent.com/100418866/352974715-233e66df-5b6f-4b01-862e-d620cc25ce66.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNDI0MDMsIm5iZiI6MTcyMjI0MjEwMywicGF0aCI6Ii8xMDA0MTg4NjYvMzUyOTc0NzE1LTIzM2U2NmRmLTViNmYtNGIwMS04NjJlLWQ2MjBjYzI1Y2U2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOVQwODM1MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYmFiYjljNDAxMWUyNDRlMjRlMGI0ZmMwOGNjOTIxYjJiOWZlZGNkYWJhYzQ5MjdiNmRlODc0YTkxZGU2NDY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZPT9IHIjCPtuH0Q8Dx3VJEprN7qSWwvDPlWbk2WeTcY",
+        "https://github.com/akarshmadan4/AirlineX/blob/main/AirlineXphoto.png?raw=true",
       tags: ["HTML", "CSS", "JavaScript", "MySQL"],
       category: "web app",
       github: "https://github.com/akarshmadan4/AirlineX",
