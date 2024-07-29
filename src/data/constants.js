@@ -173,7 +173,7 @@ export const Bio = {
       description:
         "Developed a comprehensive web application for an international conference to be held in Thapar this year focusing on the application of the latest computational technology to Electronics Engineering and Wireless Communications.",
       image:
-        "https://private-user-images.githubusercontent.com/100418866/352972846-c06d689d-d873-46c0-a691-9a3b0c00a33a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNDI1MDQsIm5iZiI6MTcyMjI0MjIwNCwicGF0aCI6Ii8xMDA0MTg4NjYvMzUyOTcyODQ2LWMwNmQ2ODlkLWQ4NzMtNDZjMC1hNjkxLTlhM2IwYzAwYTMzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOVQwODM2NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjU3NWJjYzFlMzI5ZjAwYzU4YmY1ODQxZDY3MDIwMThhOTRmNzRjNGZkMmRiNTJlNjRlZjY0ZDJjYWMzY2U0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nDtG6FEMdvIgZBvPNHcBsoPl0ls74o7sky1NmZr5hKA",
+        "https://github.com/akarshmadan4/SQL-Questions/blob/main/iaicctphoto.png?raw=true",
       tags: [
         "CSS",
         "JavaScript",
@@ -203,7 +203,7 @@ export const Bio = {
       description:
         "LiveTrack is an efficient and responsive system for real-time device tracking, displaying locations on a dynamic map with automatic updates. Leveraging WebSockets and Leaflet.js, it ensures seamless monitoring of multiple devices simultaneously.",
       image:
-        "https://private-user-images.githubusercontent.com/100418866/352980596-0bd01d0e-3729-47e0-9ba6-ce4931fcc4da.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNDM0NDksIm5iZiI6MTcyMjI0MzE0OSwicGF0aCI6Ii8xMDA0MTg4NjYvMzUyOTgwNTk2LTBiZDAxZDBlLTM3MjktNDdlMC05YmE2LWNlNDkzMWZjYzRkYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOVQwODUyMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNThjODlkNTVmZjMxMjNjOGVlMTQwYmM3ZTM1MTM4NjVlNmQ0YjZhYWIzZWY3ZmEwNDlkOGYxY2IxNTA1OWEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.w2Ogddvy3hLFD8cwhqzvonSOkIPYj8Iba9HkszlbjlQ",
+        "https://github.com/akarshmadan4/Realtime-Device-Tracking/blob/main/Trackphoto.png?raw=true",
       tags: [
         "Node Js",
         "Express Js",
