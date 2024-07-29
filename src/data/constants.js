@@ -7,7 +7,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/akarshmadan4",
-    resume: "https://drive.google.com/file/d/1AgSnFSz7hZYowHU8My7tSNb4zQrLChoj/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1Xyt2nZXg5boR-HeNwl4AUy_gpm6GATAb/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/akarsh-madan-720873246/",
   };
   
